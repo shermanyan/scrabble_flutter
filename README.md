@@ -30,7 +30,7 @@ A turn-based multiplayer Scrabble-like game built with Flutter and Bloc. Two pla
    - An IDE (VS Code, Android Studio) or command‐line setup
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/scrabble_game.git
+   git clone https://github.com/shermanyan/scrabble_game.git
    cd scrabble_game
    ```
 3. **Install Dependencies**:
