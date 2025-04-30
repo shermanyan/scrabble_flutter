@@ -17,7 +17,7 @@ A turn-based multiplayer Scrabble-like game built with Flutter and Bloc. Two pla
   - **Pass**: Click **Pass** (red outline/text) to skip placing and immediately pass the turn without drawing.
 - **Ownership & Coloring**:
   - Tiles you place are marked as **brown** on the board.
-  - Opponent’s tiles appear **white**.
+  - Opponent’s tiles appear **blue**.
 - **Scoring**: Simple tile‐count score: each tile placed adds 1 point to that player’s total. Scores are maintained locally and displayed at the top.
 
 ---
