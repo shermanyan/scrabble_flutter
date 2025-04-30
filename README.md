@@ -44,8 +44,8 @@ A turn-based multiplayer Scrabble-like game built with Flutter and Bloc. Two pla
 
 1. **Start Two Instances**:
    - Launch on two devices/emulators.
-   - On one, choose “Start New Game” (becomes Player 1).
-   - On the other, choose “Join Game” (becomes Player 2); enter the host’s IP and port.
+   - On one, choose “Host” (becomes Player 1).
+   - On the other, choose "Client"" (becomes Player 2); enter the host’s IP and port.
 2. **Gameplay**:
    - Drag tiles from your rack onto the board.
    - Use **Pass** or **End Turn** as needed.
