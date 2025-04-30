@@ -8,7 +8,6 @@ import 'socket_state.dart';
 import 'scrabble_player.dart';
 
 void main() {
-  // Entry point of the app
   runApp(
     MaterialApp(
       title: 'Scrabble',
